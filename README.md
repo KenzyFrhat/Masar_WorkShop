@@ -108,9 +108,10 @@ Displays a temporary success message after form submission.
 Contributions are welcome!
 
 ## 📄 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **Educational License**.
 
 ## 👩‍💻 Developer
-**Kenzy Frahat**  
-FCIS – Mansoura University  
-Focused on building clean, functional web applications.
+
+**Kenzy Frhat**  
+Faculty of Computers & Information — Year 2  
+
