@@ -96,7 +96,7 @@ Displays a temporary success message after form submission.
 3. Run the website by opening **index.html** in your browser.
 
 ## 📸 Screenshots
-(Add screenshots when uploading to GitHub)
+(Soon)
 
 ## ✨ Future Enhancements
 - Add backend to store registrations  
