@@ -90,7 +90,7 @@ Displays a temporary success message after form submission.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Masar-Workshop.git
+   git clone https://github.com/KenzyFrhat/Masar_WorkShop
    ```
 2. Open the project folder.
 3. Run the website by opening **index.html** in your browser.
