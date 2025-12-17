@@ -81,7 +81,7 @@ section{
 #hero{
     padding-top: 80px;
 
-    background: linear-gradient(rgba(44, 62, 89, 0.7), rgba(44, 62, 89, 0.7)), url("background6.jpg") ;
+    background: linear-gradient(rgba(44, 62, 89, 0.7), rgba(44, 62, 89, 0.7)), url("Images\\background6.jpg") ;
     height: 100vh;
     background-size: cover; /* no repeated photos */
     background-position: center;  /* center the photo */
